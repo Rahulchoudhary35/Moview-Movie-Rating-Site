@@ -1,0 +1,45 @@
+.reviews {
+    margin-left: 130px;
+    margin-top: 10px;
+    
+}
+
+.title2 {
+    margin-top: 20px;
+    color: yellow;
+    margin-bottom: 10px;
+}
+
+
+i {
+    color: gold;
+}
+
+.get-review {
+
+    width: 700px;
+    height: 100px;
+}
+
+.warp-review {
+    width: 800px;
+    height: 150px;
+    background-color: rgb(59, 57, 57);
+    margin: 5px;
+    border-radius: 10px;
+    align-items: center;
+}
+
+.user2 {
+    padding: 20px;
+    font-size: 20px;
+}
+
+.userreview2 {
+    padding-left: 100px;
+}
+
+.userstar {
+    padding-left: 20px;
+    padding-top: 20px;
+}

@@ -1,0 +1,63 @@
+.review {
+    margin-top: -180px;
+    margin-left: 130px;
+}
+
+.title1 {
+    font-size: 30px;
+    margin: 10px;
+    color: red;
+}
+
+.name1 {
+    margin: 10px;
+    font-weight: 800;
+    font-size: 20px;
+}
+
+.stars {
+    margin: 10px;
+    display: flex;
+}
+
+.name2 {
+    font-size: 20px;
+}
+
+.star-input {
+    margin-left: 10px;
+    width: 40px;
+    color: white;
+    background-color: black;
+}
+
+/* textarea {
+    background-color: black;
+    color: white;
+    height: 120px;
+    width: 800px;
+    font-size: 20px;
+    font-family: sans-serif;
+    border: 0.5px solid yellow;
+} */
+
+.post-review {
+    margin: 10px;
+    background-color: black;
+    color: white;
+    height: 120px;
+    width: 800px;
+    font-size: 20px;
+    font-family: sans-serif;
+    border: 0.5px solid yellow;
+}
+
+.btn1 {
+    margin: 10px;
+    background-color: red;
+    width: 100px;
+    height: 40px;
+    border: 1px solid red;
+    border-radius: 30px;
+    font-weight: 900;
+}
